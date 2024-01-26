@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chinmay Brahmbhatt
 - I am majoring in Data Science with a minor in Math at Umass Lowell 
-- 📫 How to reach me: Email me at Chinmay1907@gmail.com 
+- 📫 Email me at Chinmay1907@gmail.com 
 
 
 <!---
