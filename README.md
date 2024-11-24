@@ -16,24 +16,25 @@ Welcome to my GitHub profile! I’m a **Data Science senior** at **UMass Lowell*
 ---
 
 ## 🛠️ Technologies & Tools
-### Programming & Data Manipulation 🧑‍💻
-- **Languages**: Python, SQL, R
-- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 
-### Data Analysis & Visualization 📊
-- **Tools**: Matplotlib, Seaborn, Power BI, Tableau
-- **Platforms**: Google Colab, Apache Spark, Databricks, Microsoft Azure (ADF, Data Lake)
+### 🔢 Data Science & Machine Learning
+- **Programming & Libraries**: Python, R, Pandas, NumPy, Scikit-learn
+- **Machine Learning & AI**: TensorFlow, Keras, Neural Networks, Deep Learning, Computer Vision
+- **Cloud Platforms**: Microsoft Azure (ADF, Machine Learning, Data Lake)
 
-### Data Engineering & ETL ⚙️
-- **ETL/ELT Tools**: SQL, Python, Azure Data Factory, Excel
+### 📊 Data Analysis & Visualization
+- **Data Visualization Tools**: Matplotlib, Seaborn, Power BI, Tableau
+- **Preprocessing & Cleaning**: Excel, SQL (MariaDB), Python
+- **Dashboards & Reporting**: Power BI, Tableau, Jupyter Notebook
 
-### Machine Learning & AI 🤖
-- **Core Skills**: Machine Learning, Deep Learning, Neural Networks, Computer Vision
-- **Frameworks**: TensorFlow, Keras, Scikit-learn
+### ⚙️ Data Engineering & ETL/ELT
+- **ETL/ELT Tools**: Azure Data Factory, Databricks, Apache Spark
+- **Data Storage**: Azure Data Lake, MariaDB SQL
+- **Pipeline Development**: API Integration, Data Transformation, Large-scale Data Processing
 
-### Development & Collaboration 🔧
+### 🛠️ Development & Collaboration
 - **Version Control**: Git
-- **Preffered IDEs**: Jupyter Notebook, Google Colab, DataBricks 
+- **Preferred IDEs**: Jupyter Notebook, Google Colab, Databricks
 
 ---
 
