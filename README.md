@@ -40,12 +40,16 @@ Welcome to my GitHub profile! I’m a **Data Science senior** at **UMass Lowell*
 
 ## 🌟 Featured Projects
 ### 🧠 Neural Network Model for Alzheimer’s Detection in MRI Images
-- **Tools**: TensorFlow, Keras, Google Colab  
+- **Tools**: Python, Pandas, Matplotlip TensorFlow, Keras, Google Colab
 - **Highlights**: Built a CNN from scratch on Google Colab’s GPU to classify Alzheimer’s stages from MRI images. Achieved 82% training accuracy through robust data preprocessing and created visualizations to analyze key metrics and extract valuable insights.  
 
 ### 💰 Loan Approval Prediction Model
 - **Tools**: Python, Pandas, Scikit-learn  
 - **Highlights**: Developed regression and classification models to assess loan risk and approval using 34 financial and personal factors. Presented findings with a detailed report, showcasing model performance to aid informed lending decisions.
+
+### 🏦 Bankruptcy Prediction Model
+- **Tools**: Python, Pandas, Scikit-learn, Matplotlib
+- **Highlights**: Built a predictive model to identify potential bankruptcies using financial indicators. Utilized classification algorithms to achieve high accuracy and interpretability, enabling data-driven risk assessments. Delivered a comprehensive report with visualizations to communicate key findings effectively.
 
 ### 🏅 End-to-End Data Engineering Project: Olympic Data Analysis
 - **Tools**: Azure Data Factory, Data Lake Gen 2, Databricks (Spark)  
