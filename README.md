@@ -51,6 +51,10 @@ Welcome to my GitHub profile! I’m a **Data Science senior** at **UMass Lowell*
 - **Tools**: Python, Pandas, Scikit-learn, Matplotlib
 - **Highlights**: Built a predictive model to identify potential bankruptcies using financial indicators. Utilized classification algorithms to achieve high accuracy and interpretability, enabling data-driven risk assessments. Delivered a comprehensive report with visualizations to communicate key findings effectively.
 
+### 🚗 GreenDrive Automotive MPG Analysis  
+- **Tools**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Power BI, Excel  
+- **Highlights**: Analyzed vehicle specifications to determine key factors influencing fuel efficiency. Developed regression models to predict MPG and created an interactive Power BI dashboard to visualize insights. Presented findings in a PowerPoint executive summary to guide GreenDrive’s design decisions.  
+
 ### 🏅 End-to-End Data Engineering Project: Olympic Data Analysis
 - **Tools**: Azure Data Factory, Data Lake Gen 2, Databricks (Spark)  
 - **Highlights**: Built a complete data pipeline integrating Olympic data via API. Performed ETL processes and stored transformed data for downstream analysis.
