@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a **Data Science senior** at **UMass Lowell*
 
 ## 🚀 About Me
 - 🎓 **Education**: Senior at UMass Lowell, majoring in Data Science with a minor in Math.
-- 🧠 **Current Interests**: Deep Learning, CNNs, and Transfer Learning.
+- 🧠 **Current Interests**: Gen AI, Deep Learning and Predictive Monitoring.
 - 💻 **Projects**: See below for detailed insights into my work!
 - 🏆 **Leadership**: 
   - President of the UML Data Club for Data Scientists and AI.
