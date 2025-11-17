@@ -5,7 +5,8 @@ Welcome to my GitHub profile! I’m a **Data Science senior** at **UMass Lowell*
 ---
 
 ## 🚀 About Me
-- 🎓 **Education**: Senior at UMass Lowell, majoring in Data Science with a minor in Math.
+- 🎓 **Education**: Part-time Master: Georgia Tech, majoring in Computer Science 
+      Undergrad: UMass Lowell, majoring in Data Science with a minor in Math
 - 🧠 **Current Interests**: Gen AI, Deep Learning and Predictive Monitoring.
 - 💻 **Projects**: See below for detailed insights into my work!
 - 🏆 **Leadership**: 
